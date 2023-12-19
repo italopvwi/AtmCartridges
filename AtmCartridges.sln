@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmCartridges", "AtmCartridges\AtmCartridges.csproj", "{BA9695F6-5EF6-4CAC-BCA5-BAB9864FCD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9695F6-5EF6-4CAC-BCA5-BAB9864FCD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9695F6-5EF6-4CAC-BCA5-BAB9864FCD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9695F6-5EF6-4CAC-BCA5-BAB9864FCD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9695F6-5EF6-4CAC-BCA5-BAB9864FCD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41A3707-C3C4-44D0-9C6D-EA1B374CB7D7}
+	EndGlobalSection
+EndGlobal
